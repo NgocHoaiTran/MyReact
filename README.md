@@ -1,2 +1,27 @@
 # MyReact
 Bài Tập Môn React
+## Lý Thuyết
+[Câu 1] (https://codepen.io/ngochoaitran/pen/LYrJboY)
+[Câu 2] (##)
+[Câu 3] (https://codepen.io/ngochoaitran/pen/XWYPprQ)
+[Câu 4] (https://codepen.io/ngochoaitran/pen/qBKMREE)
+[Câu 5] (https://codepen.io/ngochoaitran/pen/NWzLdPy)
+[Câu 6] ()
+[Câu 7] ()
+[Câu 8] ()
+[Câu 9] (https://codepen.io/ngochoaitran/pen/MWXebXo)
+[Câu 10] (https://codepen.io/ngochoaitran/pen/OJEWgwJ)
+[Câu 11] (https://codepen.io/ngochoaitran/pen/YzvZOxo)
+[Câu 12] (https://codepen.io/ngochoaitran/pen/rNKjyer)
+[Câu 13] (https://codepen.io/ngochoaitran/pen/XWYpMjP)
+[Câu 14] (https://codepen.io/ngochoaitran/pen/ExRvrbe)
+[Câu 15] (https://codepen.io/ngochoaitran/details/gOKxypK)
+[Câu 16] (https://codepen.io/ngochoaitran/details/JjZrvZJ)
+[Câu 17] (https://codepen.io/ngochoaitran/details/MWXEGBK)
+[Câu 18] (https://codesandbox.io/s/cau-18-m7prhr)
+[Câu 19] (https://codesandbox.io/s/cau-19-d1elxu)
+[Câu 20] (https://codesandbox.io/s/bai-20-lxpxrr)
+[Câu 21] (https://codesandbox.io/s/bai-20-io979x)
+## Thực Hành
+[Bài thực Hành Props và State ] (https://codesandbox.io/s/prop-and-state-5lv1y4)
+[Bài thực hành 1 ] ()
