@@ -1,8 +1,8 @@
 # MyReact
 Bài Tập Môn React
 ## Lý Thuyết
-[Câu 1] (https://codepen.io/ngochoaitran/pen/LYrJboY)
-[Câu 2] (##)
+1. [Câu 1] (https://codepen.io/ngochoaitran/pen/LYrJboY)
+2. [Câu 2] (##)
 [Câu 3] (https://codepen.io/ngochoaitran/pen/XWYPprQ)
 [Câu 4] (https://codepen.io/ngochoaitran/pen/qBKMREE)
 [Câu 5] (https://codepen.io/ngochoaitran/pen/NWzLdPy)
