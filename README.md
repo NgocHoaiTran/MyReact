@@ -8,7 +8,7 @@ Bài Tập Môn React
 5. [Câu 5](https://codepen.io/ngochoaitran/pen/NWzLdPy)
 6. [Câu 6](https://codepen.io/ngochoaitran/pen/bGKxgda)
 7. [Câu 7](https://codesandbox.io/s/cau-7-dritd2)
-8. [Câu 8] ()
+8. [Câu 8](https://codepen.io/ngochoaitran/pen/KKexWyd)
 9. [Câu 9](https://codepen.io/ngochoaitran/pen/MWXebXo)
 10. [Câu 10](https://codepen.io/ngochoaitran/pen/OJEWgwJ)
 11. [Câu 11](https://codepen.io/ngochoaitran/pen/YzvZOxo)
