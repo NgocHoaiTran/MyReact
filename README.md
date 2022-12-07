@@ -27,5 +27,5 @@ Bài Tập Môn React
 2. [Bài thực Hành Props và State ](https://codesandbox.io/s/prop-and-state-5lv1y4)
 3. [Bài thực hành 1 ](https://codesandbox.io/s/bth1-gt68l2)
 4. [Bài thực hành 2 ](https://codesandbox.io/s/bth2-w1b5pl)
-5. [Bài thực hành 3 ]()
+5. [Bài thực hành 3 ](https://codesandbox.io/s/bth3-66ohk2)
 6. [Dự án hoàn chỉnh  ](https://codesandbox.io/s/dahc-h3zu14)
