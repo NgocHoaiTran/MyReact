@@ -27,4 +27,4 @@ Bài Tập Môn React
 2. [Bài thực hành 1 ](https://codesandbox.io/s/bth1-gt68l2)
 3. [Bài thực hành 2 ](https://codesandbox.io/s/bth2-w1b5pl)
 4. [Bài thực hành 3 ]()
-5. [Dự án hoàn chỉnh  ] (https://codesandbox.io/s/dahc-h3zu14)
+5. [Dự án hoàn chỉnh  ](https://codesandbox.io/s/dahc-h3zu14)
